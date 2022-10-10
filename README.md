@@ -2,7 +2,7 @@
 
 Contact
 <ul>
-<li><a href="mailto:jrespond00@gmail.com"></a></li>
+<li><a href="mailto:jrespond00@gmail.com">Correo</a></li>
 </ul>
 
 
