@@ -3,13 +3,10 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-📫 How to reach me <a href="mailto:jrespond00@gmail.com">jrespond00@gmail.com</a>
-
 <p align="left">
 
 </p>
+<h3 align="left">About Me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -44,7 +41,8 @@
     </a>
 </p>
 
-
+<h3 align="left">Connect with me:</h3>
+📫 How to reach me <a href="mailto:jrespond00@gmail.com">jrespond00@gmail.com</a>
 
 <!--
 **boboxxingo/boboxxingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
