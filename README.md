@@ -7,6 +7,11 @@
 
 </p>
 <h3 align="left">About Me:</h3>
+<p align="justify">
+I like technology, I am self-taught by the way I have a Python book. In my free time I like to practice in C.I have
+Skill dealing with Hardware because I studied mechanics, the assembly and disassembly of a computer equipment is
+easy for me and I have been fixing these equipment for some time.
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
